@@ -101,7 +101,9 @@ Each template is available in two formats:
 
 ## 📚 Enhanced Guide Structure
 
-The major guides have been split into dedicated section files for easier navigation:
+The major guides have been split into dedicated section files for easier navigation. [View complete guide overview →](guides/)
+
+**Total:** 42 organized section files across 5 major guides
 
 ### [Common Problems Quick Guide](guides/common-problems/)
 Fast solutions organized by problem type:
