@@ -1,0 +1,28 @@
+PRIORITY ORDERS MANAGEMENT LOG
+
+Manager: _______________________ | Date: __________________
+
+Priority Legend:
+
+    P1 (Critical): Must ship within 4 hours.
+    P2 (High): Must ship by EOD.
+    P3 (Standard): Standard SLA applies.
+
+Order ID	Customer Name	Received Time	Deadline	Priority (P1/P2)	Items/SKU	Status	Assignee
+#							
+#							
+#							
+#							
+#							
+#							
+#							
+#							
+
+Notes / Issues:
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
