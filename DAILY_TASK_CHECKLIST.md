@@ -1,0 +1,75 @@
+# DAILY TASK CHECKLIST
+
+**Date:** __________________ | **Shift:** __________________ | **Supervisor:** __________________
+
+## Start of Shift (Check all before operations begin)
+
+- [ ] Attended morning meeting/briefing
+- [ ] Reviewed priority orders for the day
+- [ ] Checked staff attendance (_____ present / _____ scheduled)
+- [ ] Assigned zones/areas to pickers
+- [ ] Assigned stations to packers
+- [ ] Verified equipment is operational (scanners, printers, pallet jacks)
+- [ ] Checked for special instructions or rush orders
+- [ ] Reviewed handoff notes from previous shift
+
+## During Shift (Monitor throughout the day)
+
+- [ ] Monitor pick rates and productivity
+- [ ] Check packing station supplies
+- [ ] Address employee questions/issues
+- [ ] Handle customer service escalations
+- [ ] Verify priority orders are on track
+- [ ] Check in with underperforming team members
+- [ ] Approve breaks and lunches
+- [ ] Update order status/tracking
+- [ ] Communicate delays or issues to relevant parties
+
+## Hourly Quick Checks
+
+| Time | Orders Completed | Issues/Notes |
+|------|------------------|--------------|
+| ___:00 | | |
+| ___:00 | | |
+| ___:00 | | |
+| ___:00 | | |
+| ___:00 | | |
+| ___:00 | | |
+| ___:00 | | |
+| ___:00 | | |
+
+## End of Shift (Complete before leaving)
+
+- [ ] Verify all priority orders completed or handed off
+- [ ] Check that all shipments are scanned/logged
+- [ ] Review picker performance for the day
+- [ ] Ensure packing stations are cleaned
+- [ ] Complete shift handoff report
+- [ ] Report equipment issues for maintenance
+- [ ] Submit time corrections (if needed)
+- [ ] Lock up equipment/supplies
+- [ ] Brief incoming supervisor on outstanding items
+
+## Daily Metrics Summary
+
+- **Orders Picked:** _____ (Target: _____)
+- **Orders Shipped:** _____ (Target: _____)
+- **Team Productivity:** ☐ Above Target ☐ On Target ☐ Below Target
+- **Quality Issues:** _____ (Target: 0-2)
+
+## Follow-up Items for Tomorrow
+
+1. _________________________________
+2. _________________________________
+3. _________________________________
+4. _________________________________
+
+## Notes
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+**Completed By:** _______________________ Time: _________

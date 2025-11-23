@@ -1,0 +1,242 @@
+EDGE CASE SCENARIOS GUIDE
+
+Unusual situations and how to handle them when standard procedures don't apply.
+
+EMERGENCY SITUATIONS
+
+Fire or Evacuation:
+1. Sound alarm if not already sounding
+2. Evacuate all staff immediately via designated exits
+3. Account for all team members at assembly point
+4. Call 911 if not already called
+5. DO NOT re-enter building
+6. Contact upper management
+7. Document incident after everyone is safe
+
+Severe Weather (Tornado, Hurricane, Earthquake):
+1. Move team to designated safe area
+2. Stay away from windows
+3. Monitor weather alerts
+4. Do not leave until all-clear given
+5. Check for injuries
+6. Assess building damage before resuming
+
+Power Outage:
+Short term (< 1 hour): Continue non-power work, use emergency lighting, prioritize time-sensitive orders manually
+Long term (> 1 hour): Send non-essential staff home, secure inventory, contact utility, update customers
+
+Medical Emergency:
+1. Call 911 immediately
+2. Administer first aid if trained
+3. Do NOT move injured person unless immediate danger
+4. Clear area for paramedics
+5. Assign someone to meet ambulance
+6. Document incident
+7. Notify HR and management
+
+Remember: You're not a doctor - get professional help
+
+FINANCIAL/SECURITY EDGE CASES
+
+Suspected Theft by Employee:
+DO NOT confront directly
+1. Document what you observed
+2. Review security footage if available
+3. Report to HR and upper management immediately
+4. Let them investigate
+5. Do NOT discuss with other employees
+Legal note: False accusations can result in lawsuits
+
+Suspected Theft by Customer:
+1. Do NOT physically stop or detain
+2. Note description, time, items
+3. Review security footage
+4. Contact security/police per policy
+5. Document incident
+Never: Chase, physically confront, or accuse without proof
+
+Finding Large Amount of Cash/Valuable Item:
+1. Don't touch it
+2. Call manager and security immediately
+3. Secure area
+4. Document where found, when, by whom
+5. Have witness present
+6. Turn over to management with witness signature
+
+Employee Shows Up Intoxicated/High:
+1. Pull them aside privately
+2. "You don't seem well. Let me call someone to pick you up."
+3. Do NOT let them work
+4. Do NOT let them drive
+5. Call manager/HR immediately
+6. Arrange safe transportation
+7. Document incident
+
+PEOPLE EDGE CASES
+
+Employee Threatens Violence:
+Immediate threat: Call 911, evacuate if safe, do NOT confront
+Verbal threat only: Take seriously, remove from floor, contact HR/security, do NOT send home, document exact words, get witness statements
+
+Employee Has Emotional Breakdown:
+1. Move to private area
+2. "I can see you're upset. Do you want to talk or would you like some time?"
+3. Listen if they want to talk
+4. Offer to go home or call someone
+5. Contact HR if serious
+You're not a therapist: Be kind but know your limits
+
+Employee Reports Harassment/Discrimination:
+1. Listen without judgment
+2. "Thank you for telling me. This is serious. I'm going to report this to HR right away."
+3. Take notes
+4. Report to HR immediately - same day
+5. Do NOT investigate yourself
+6. Do NOT confront alleged harasser
+Legal requirement: You MUST report
+
+Two Employees Dating (Or Breaking Up):
+No problem if: Not supervisor/subordinate, no workplace disruption, professional at work
+Problem if: Drama affecting work, supervisor dating direct report
+Action: "Personal life is personal, but work is work. Keep it professional here."
+
+Employee's Family Member Dies:
+Immediate: "I'm so sorry for your loss. Take the time you need." Offer to call someone, send them home
+Follow-up: Check bereavement policy, coordinate coverage, be patient with performance
+
+OPERATIONS EDGE CASES
+
+System Completely Down, Can't Ship:
+1. Contact IT immediately
+2. Document orders that can't ship
+3. Contact customers
+4. Prepare manual workarounds
+5. Keep team productive on other tasks
+6. Update management on impact
+
+Receive Wrong Shipment:
+1. Don't unpack or use items
+2. Check packing slip vs label
+3. Contact vendor immediately
+4. Take photos
+5. Arrange return pickup
+6. Track your actual order
+
+Discover Product Recall/Safety Issue:
+1. STOP shipping that product immediately
+2. Quarantine all units
+3. Contact management immediately
+4. Check if already shipped
+5. Document lot numbers
+Liability: Shipping recalled products can get company sued
+
+Customer Paid But Order Can't Be Fulfilled:
+1. Contact customer immediately (phone call)
+2. Options: Substitute item, backorder with date, full refund
+3. Let customer choose
+4. Process refund same day if requested
+5. Update inventory system
+
+TECHNOLOGY EDGE CASES
+
+Credit Card System Down:
+Options: Manual imprinter, record to process later (secure only), alternative payment, pick up/pay later if trusted
+Never: Write down full card numbers on paper
+
+Can't Access Required System:
+1. Contact IT help desk
+2. Use backup system if available
+3. Identify critical vs can-wait tasks
+4. Work offline if possible
+5. Communicate delays
+
+Email/Communication System Down:
+Workarounds: Personal cell phone, text messages, in-person, write notes
+Lesson: Don't rely on one communication channel
+
+FACILITY EDGE CASES
+
+Plumbing Failure:
+Flooding: Evacuate area, turn off water, call maintenance, move inventory, document damage
+No water: Can't work without bathrooms, arrange porta-potty or send home
+
+Heating/AC Failure:
+Extreme heat: Provide water, more breaks, watch for heat exhaustion, send home if >95°F
+Extreme cold: Extra layers permitted, heated break area, shorter shifts
+
+Pest Infestation Discovered:
+1. Document with photos
+2. Quarantine affected area
+3. Contact pest control immediately
+4. Notify management
+5. May need to cease operations
+6. Deep clean after treatment
+
+DOCUMENTATION EDGE CASES
+
+Employee Claims They Didn't Get Written Warning:
+Protection: Always make copies, have them initial all pages, email copy same day, keep in file and give to HR
+
+You Made a Serious Mistake:
+1. Own it immediately - don't hide it
+2. Inform manager right away
+3. "I made a mistake. Here's what happened, here's how I'm fixing it."
+4. Document what went wrong
+5. Implement prevention
+Mistakes happen: Honesty is the best policy
+
+Asked to Do Something You Think is Wrong/Illegal:
+1. Ask for clarification
+2. Express concern
+3. Request written instruction
+4. If still concerned: Document conversation
+5. If clearly illegal: Talk to HR/legal or don't do it
+Your career: Don't do illegal things
+
+CUSTOMER EDGE CASES
+
+Extremely Angry Customer:
+1. Stay calm
+2. "I understand you're upset. Let's solve this."
+3. Listen without interrupting
+4. If threatening: "I want to help, but I can't if you're threatening me."
+5. If continues: End call/ask to leave
+6. Call security/police if necessary
+
+Customer Wants to Return Item Bought Months Ago:
+1. "Our policy is [X days]"
+2. If outside: "Let me see what I can do"
+3. Check reason, use judgment
+4. If approve exception: Note it
+5. If deny: "Our policy is firm on this"
+
+Customer Wants Discount You Can't Authorize:
+1. "Let me check with my manager."
+2. Present case with recommendation
+3. Return with answer
+4. If denied: "I tried, but this is the best we can do"
+
+GENERAL EDGE CASE PRINCIPLES
+
+When You Don't Know What to Do:
+1. Escalate: "This is outside my experience"
+2. Don't guess: Better to admit you don't know
+3. Document: Write down what happened
+4. Ask for help
+5. Learn: After resolution, understand what should have been done
+
+CYA (Cover Your Assets):
+- Document everything unusual
+- Get things in writing
+- Have witnesses for serious matters
+- Follow company policy
+- When in doubt, escalate
+
+Priority in Edge Cases:
+1. Safety - Human safety always first
+2. Legal compliance - Don't break laws
+3. Company policy - Follow procedures
+4. Business needs - Keep operations running
+5. Everything else - Can be figured out later
+
+Remember: Edge cases are rare. Don't stress. Use good judgment, prioritize safety and ethics, and escalate when needed.

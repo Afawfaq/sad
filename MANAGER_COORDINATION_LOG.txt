@@ -1,0 +1,274 @@
+MANAGER COORDINATION LOG
+
+Date: __________________ | Week Of: __________________
+
+Warehouse/CS Manager: ______________________ | Store Manager: ______________________
+
+DAILY SYNC POINTS
+
+Morning Check-in (15 minutes)
+Time: ________ | Location: ________________
+
+Your Updates (Warehouse/CS):
+[ ] Priority orders shipping today
+[ ] Delays or issues affecting customers
+[ ] Staff situation (callouts, coverage)
+[ ] Inventory concerns (out of stock)
+[ ] Customer escalations
+
+Store Manager Updates:
+[ ] Store traffic expectations
+[ ] In-store promotions affecting inventory
+[ ] Customer pickup orders ready?
+[ ] Store inventory needs from warehouse
+[ ] Store customer issues
+
+Quick Decisions Needed:
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+Mid-Day Check (5 minutes)
+Time: ________ 
+
+[ ] On track for today's goals?
+[ ] Any new problems?
+[ ] Need to shift resources?
+
+Notes:
+_______________________________________________________________________
+
+End of Day Debrief (10 minutes)
+Time: ________
+
+What Went Well:
+_______________________________________________________________________
+
+What Needs Improvement:
+_______________________________________________________________________
+
+Tomorrow's Plan:
+_______________________________________________________________________
+
+WEEKLY COORDINATION
+
+Monday Planning Meeting:
+[ ] Review week's priorities
+[ ] Staff schedule coordination
+[ ] Upcoming promotions/events
+[ ] Inventory restock needs
+[ ] Last week's problems
+
+Friday Wrap-up:
+[ ] Week's performance review
+[ ] Weekend coverage plan
+[ ] Pending issues
+[ ] Next week's heads-up
+
+SHARED RESPONSIBILITIES
+
+When Store Needs Warehouse Help:
+Store Manager Requests:
+- Item from warehouse stock
+- Staff for receiving
+- Stock transfer processing
+- Return items to shelve
+
+Your Response Time: Within 30 minutes
+
+When Warehouse Needs Store Help:
+You May Request:
+- Staff to help packing
+- Store check shelf for item
+- Store handle pickup orders
+- Store take returns
+
+Store Manager Response: Within 30 minutes
+
+SPLIT RESPONSIBILITIES
+
+You Own (Warehouse/CS Manager):
+- Online order fulfillment
+- Shipping and carriers
+- Pick/pack team management
+- Customer service inquiries
+- Warehouse inventory accuracy
+- Order escalations
+- Returns processing (warehouse)
+
+Store Manager Owns:
+- In-store customer experience
+- Store sales floor
+- Store staff management
+- Store inventory (floor stock)
+- In-store purchases
+- Customer pickup coordination
+- Store merchandising
+
+Shared (Both Coordinate):
+- Overall inventory management
+- Staff coverage (cross-train/share)
+- Customer satisfaction (store + online)
+- Store-to-warehouse transfers
+- Major promotions/events
+- Problem resolution
+
+COMMUNICATION GUIDELINES
+
+When to Loop in Store Manager:
+- Escalation affects store reputation
+- Pull inventory from store floor
+- Customer return online order to store
+- Warehouse delay → store customer issue
+- Need extra hands for warehouse
+
+When Store Manager Loops You In:
+- Store customer wants shipping
+- Store receiving warehouse shipment
+- Customer return/exchange online order in store
+- Store inventory discrepancy
+- Need warehouse staff in store
+
+How to Communicate:
+Urgent (15 min response): Text/call - Customer waiting, safety, crisis
+Important (1 hour): Walkie/radio - Staffing, inventory, coordination
+Normal (same day): Email/notes - Updates, planning, documentation
+
+CONFLICT RESOLUTION
+
+If You Disagree on Priority:
+1. Both state case (facts)
+2. Consider: Who has more urgent customer need?
+3. Consider: Can we do both?
+4. Decide: Use priority guide
+5. Still stuck: Escalate together
+
+Priority Guide:
+1. Safety issue → Always first
+2. Customer physically waiting → Usually priority
+3. P1 order (ship 4 hours) → High priority
+4. Store sale vs online → Equal
+5. P2/P3 orders → Can wait
+
+If You Disagree on Resources:
+1. What's actual impact?
+2. Can employee split time?
+3. Alternative person/solution?
+4. Which is more time-sensitive?
+5. Compromise
+
+Remember: Same team, same goals
+
+WEEKLY SHARED METRICS
+
+Metric	Target	Actual	Notes
+Total Orders Fulfilled (online)			
+Store Sales			
+Customer Satisfaction			
+Combined Team Productivity			
+Inventory Accuracy			
+Staff Utilization			
+
+COVERAGE COORDINATION
+
+When You're Out:
+Store Manager Needs:
+[ ] Who's in charge warehouse/CS
+[ ] Backup contact
+[ ] Urgent issues pending
+[ ] Critical orders to watch
+
+Your Backup: _______________________ Phone: _____________
+
+When Store Manager Out:
+You Need:
+[ ] Who's in charge store
+[ ] Their backup contact
+[ ] Store events happening
+[ ] Store staffing situation
+
+Their Backup: _______________________ Phone: _____________
+
+PROBLEM ESCALATION TOGETHER
+
+When to Go to Upper Management Together:
+- Budget decisions
+- Policy changes affecting both
+- Major customer issues
+- Disputes you can't resolve
+- Safety/HR issues
+- System problems
+
+Better Together: United front, no conflicting messages
+
+MONTHLY REVIEW MEETING
+
+Schedule: Last Friday of month, 30 minutes
+
+Agenda:
+1. Month's performance review
+2. What worked in coordination?
+3. Friction points?
+4. How to improve?
+5. Upcoming needs
+
+Focus: Solutions, not blame
+
+QUICK REFERENCE
+
+Situation	Your Call	Store Manager	Coordinate?
+Online order delayed	Yes	Share info	Yes
+Store customer wants ship	Ask SM	Yes	Yes
+Warehouse staff needed	Yes	Ask availability	Yes
+Store inventory missing	Check warehouse	Yes	Yes
+Customer return	Process	Accept	Yes
+Both short-staffed	Prioritize orders	Prioritize floor	Yes
+Inventory restock	Warehouse side	Store side	Yes
+Equipment broken	Fix warehouse	Fix store	Maybe
+
+TIPS FOR WORKING WELL TOGETHER
+
+Do:
+- Communicate early and often
+- Respect each other's priorities
+- Find win-win solutions
+- Back each other up
+- Share credit
+- Give heads-up on problems
+- Be flexible
+
+Don't:
+- Surprise each other
+- Compete for resources
+- Go over each other's head
+- Blame the other area
+- Hoard information
+- Make decisions without input
+- Let small issues grow
+
+EMERGENCY CONTACT
+
+Your Phone: _______________________
+
+Store Manager Phone: _______________________
+
+Backup Radio Channel: _______________________
+
+Group Text/Chat: _______________________
+
+NOTES & ACTION ITEMS
+
+Ongoing Items:
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+Decisions Made:
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+Follow-up Required:
+_______________________________________________________________________
+
+_______________________________________________________________________

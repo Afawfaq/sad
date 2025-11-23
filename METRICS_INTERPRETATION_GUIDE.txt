@@ -1,0 +1,247 @@
+METRICS INTERPRETATION GUIDE
+
+How to read your numbers, spot trends, and know when to take action.
+
+KEY PERFORMANCE INDICATORS (KPIs)
+
+Orders Per Hour (Team)
+What it measures: Total productivity of pick/pack operation
+How to calculate: Total orders ÷ Total labor hours
+
+Benchmarks:
+- Small items: 8-12 orders/hr per person
+- Medium items: 5-8 orders/hr per person
+- Large/multi-item: 3-5 orders/hr per person
+
+What numbers mean:
+- Above target consistently = Great
+- At target = Good
+- 10-15% below = Yellow flag
+- 20%+ below = Red flag
+
+Take action when:
+- Below target 2+ days → Find root cause
+- Sudden drop → Check equipment/system
+- Gradual decline → Staffing/training/process issues
+
+Pick Accuracy Rate
+What it measures: % of orders picked correctly
+How to calculate: (Correct picks ÷ Total picks) × 100
+
+Benchmarks:
+- Target: 98%+
+- Acceptable: 95-97%
+- Problem: Below 95%
+
+What numbers mean:
+- 98-100% = Excellent
+- 95-97% = Good, room for improvement
+- 90-94% = Action needed
+- Below 90% = Crisis
+
+Take action when:
+- Below 95% for week → Review process
+- Individual below 90% → Immediate retraining
+- Sudden drop → Check system/inventory
+- Error pattern → Investigate those items
+
+On-Time Shipment Rate
+What it measures: % shipped by promised date
+How to calculate: (On time ÷ Total orders) × 100
+
+Benchmarks:
+- Target: 95%+
+- Acceptable: 90-94%
+- Problem: Below 90%
+
+What numbers mean:
+- 95-100% = Meeting expectations
+- 90-94% = Some delays
+- 85-89% = Consistent delays
+- Below 85% = Major problem
+
+Take action when:
+- Below 95% two weeks → Review workflow
+- Late P1 orders → Adjust priorities
+- Same time issues → Adjust staffing
+- Carrier-related → Backup carrier
+
+Individual Picker Performance
+
+Items Per Hour:
+- Top: 70-100+ items/hr
+- Average: 50-70 items/hr
+- Below average: 30-50 items/hr
+- Problem: Below 30 items/hr
+
+Look for:
+- Consistent top → Model for others
+- Consistent average → Solid, no action
+- Declining → Health? Motivation? Equipment?
+- New person below → Normal, give 2-4 weeks
+- Experienced drops → Talk ASAP
+
+Pack Time Per Order
+What it measures: How long to pack
+
+Benchmarks:
+- Simple (1-3 items): 2-4 minutes
+- Medium (4-8 items): 5-8 minutes
+- Complex (9+ items): 10-15 minutes
+
+What numbers mean:
+- At/below benchmark = Good
+- Slightly over = Check complexity
+- Significantly over = Training/process issue
+
+Take action when:
+- Doubling time → Watch them, find bottleneck
+- Consistent across team → Process problem
+- One person slower → Individual training
+
+TREND ANALYSIS
+
+Week-Over-Week Trends:
+
+Productivity improving?
+- Good: Training working
+- Action: Document what's working
+
+Productivity declining?
+- Warning: Something changed
+- Action: What's different? New staff? Products? Equipment? Season?
+
+Productivity flat?
+- Neutral: Stable
+- Action: Look for improvements
+
+Daily Patterns:
+
+Monday lower? Common - getting back into rhythm
+Friday drops? Common - end of week fatigue
+After lunch slump? Common - energy dips
+End of shift rush? Problem - trying to hit target
+
+Individual Performance Patterns:
+
+High performer drops:
+Reasons: Personal issues, health, job hunting, equipment, burnout
+Action: Private conversation
+
+Low performer improves:
+Reasons: Coaching working, finally got it, easier orders
+Action: Praise it!
+
+Inconsistent (up/down):
+Reasons: Inconsistent effort, task variety, equipment sharing, schedule
+Action: Track pattern - what's different?
+
+RED FLAGS
+
+Team-Wide Issues:
+
+Everyone drops suddenly: System/equipment/process issue, not people
+Everyone's accuracy drops: Inventory problem
+All delays same time: Staffing/equipment/carrier
+
+Individual Red Flags:
+
+Numbers too perfect: Might be gaming system
+High productivity, low accuracy: Speed over quality
+Perfect accuracy, very slow: Too careful
+Declining over time: Burnout/health/checked out
+
+SETTING REALISTIC TARGETS
+
+Targets Too High:
+Signs: Nobody meets them, low morale, high turnover, shortcuts, accuracy suffers
+Action: Re-evaluate based on top performer data
+
+Targets Too Low:
+Signs: Everyone exceeds easily, no motivation, lots of downtime
+Action: Gradually increase 5-10%
+
+Right Target:
+- Top 20% exceeds regularly
+- Middle 60% hits most days
+- Bottom 20% struggles but can reach
+- Pushes improvement without burnout
+
+QUICK METRICS CHECK
+
+Morning (Before Shift):
+Look at: Yesterday's performance, red flags, today's volume vs staffing
+Decide: Adjust priorities? Staffed right? Carryover issues?
+
+Mid-Shift (Lunch):
+Look at: Current pace, on track?, problem orders?
+Decide: Reallocate people? Adjust priorities? Extra help?
+
+End-of-Shift:
+Look at: Hit targets? Individual performance, issues needing follow-up
+Decide: Who needs coaching? Problems for next shift? What worked?
+
+COMPARING METRICS
+
+Your Team vs Industry:
+Where to find: Industry associations, other locations, forums, job postings
+Use for: Setting goals, knowing if understaffed, justifying improvements
+Don't stress: Your setup is unique
+
+This Month vs Last Month:
+Good because: Same facility/team, shows trends
+Look for: 5-10% improvement = great, flat = stable, 5-10% decline = investigate, 20%+ = major problem
+
+This Year vs Last Year:
+Good for: Seasonal comparisons, long-term trends
+Watch: Holiday spikes, seasonal products, weather impacts
+
+USING METRICS FOR IMPROVEMENT
+
+Process Problems:
+Example: Everyone slow on certain SKUs
+Root cause: Hard to find, awkward to pack
+Solution: Relocate, change packaging, update process
+
+Training Needs:
+Example: New hires take 6+ weeks to reach target
+Root cause: Training not effective
+Solution: Improve onboarding, longer mentoring
+
+Equipment Issues:
+Example: Productivity drops at certain stations
+Root cause: Equipment subpar
+Solution: Fix/replace equipment, rotate stations
+
+BALANCING METRICS
+
+Speed vs Accuracy:
+Mistake: Push only speed → Errors increase
+Balance: Set accuracy minimum (95%+), then push speed
+
+Current vs Future:
+Mistake: Only today → Tomorrow starts behind
+Balance: Priority 1 = today's deadlines, Priority 2 = tomorrow's prep
+
+REMEMBER
+
+Metrics are tools, not weapons:
+- Identify problems, not punish
+- Look for patterns, not isolated incidents
+- Compare fairly
+
+Context matters:
+- One bad day ≠ bad employee
+- Team-wide ≠ individual
+- Product mix affects metrics
+
+Action over observation:
+- Metrics without action = useless
+- See problem → Investigate → Fix
+- See success → Document → Replicate
+
+Talk to your team:
+- Share numbers
+- Celebrate wins
+- Explain why metrics matter
+- Get their input

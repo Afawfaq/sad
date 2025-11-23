@@ -1,0 +1,223 @@
+MANAGEMENT SKILLS & TOOLS GUIDE
+
+Resources, software, physical tools, and mental frameworks for better warehouse management.
+
+TECHNOLOGY & SOFTWARE TOOLS
+
+Warehouse Management Systems (WMS):
+Free/Low-Cost: Odoo, inFlow Inventory, Sortly, ABC Inventory
+Paid Standards: ShipStation, Fishbowl, NetSuite, SAP
+
+Communication & Collaboration:
+Team: Slack, Microsoft Teams, WhatsApp Business, GroupMe
+Video: Zoom, Google Meet, Microsoft Teams
+Task Management: Trello, Asana, Monday.com, Google Tasks
+
+Productivity & Time Management:
+Time Tracking: Toggl, RescueTime, Clockify
+Scheduling: When I Work, Deputy, Homebase
+Focus: Forest, Pomodoro Timer, Focus@Will
+
+Document & Data Management:
+Cloud: Google Drive (free 15GB), Dropbox, OneDrive
+Spreadsheets: Google Sheets, Excel, Airtable
+Notes: Evernote, OneNote, Notion
+
+Barcode & Scanning:
+Apps: Barcode Scanner, Scandit, QuickMark
+Hardware: Zebra scanners, Honeywell, Socket Mobile
+
+Learning & Development:
+Free: YouTube, LinkedIn Learning (trial), Coursera, Khan Academy
+Warehouse: WERC, CSCMP, APICS/ASCM
+
+PHYSICAL TOOLS & EQUIPMENT
+
+Essential Manager Tools:
+Daily Carry: Clipboard, pens (multi-color), measuring tape, flashlight, multi-tool, safety glasses, comfortable shoes
+Communication: Walkie-talkie, cell phone, whistle
+
+Office/Desk Setup:
+Essentials: File organizer, whiteboard, calendar, label maker, sticky notes, stapler
+Nice to Have: Standing desk, dual monitors, desk organizer
+
+Warehouse Physical Tools:
+Measurement: Laser distance measurer, floor tape, zone labels, safety signs
+Safety: First aid kit, fire extinguisher, spill kit, safety cones
+Quality: Digital scale, box cutter, tape dispenser, shrink wrap
+
+VERBAL COMMUNICATION SKILLS
+
+Effective Speaking:
+Daily Huddles: Be brief (5 min), be clear, be loud, make eye contact
+One-on-One: Listen 70%, talk 30%, ask open questions, be specific
+Difficult Conversations: Private location, state facts, focus on behavior, end with clear expectation
+
+Communication Frameworks:
+
+SBAR (Situation, Background, Assessment, Recommendation)
+Use when reporting to manager
+
+GROW (Goal, Reality, Options, Way Forward)
+Use for coaching conversations
+
+DESC (Describe, Express, Specify, Consequences)
+Use for addressing problems
+
+Multilingual Communication:
+- Speak slowly not loudly
+- Use simple words
+- Avoid idioms
+- Use pictures/demonstrations
+- Write important information
+- Use translation apps
+- Learn key phrases
+- Pair with bilingual buddy
+
+Body Language:
+Thumbs up = Good, Pointing = Direction, Hand out = Stop, Waving = Come here, Head nod = Yes, Shaking head = No
+
+MENTAL FRAMEWORKS & MINDSETS
+
+Decision-Making Models:
+
+Eisenhower Matrix (Urgent/Important)
+Important + Urgent: DO NOW
+Important + Not Urgent: SCHEDULE
+Not Important + Urgent: DELEGATE
+Not Important + Not Urgent: ELIMINATE
+
+5 Whys (Root Cause Analysis)
+Ask "why" 5 times to find real problem
+
+Cost/Benefit Analysis
+What does it cost? What's the benefit? Worth it?
+
+Time Management Techniques:
+
+Pomodoro: 25 min work, 5 min break, repeat
+Time Blocking: Assign specific times for specific tasks
+Eat the Frog: Do hardest task first
+2-Minute Rule: If < 2 minutes, do it now
+
+Leadership Mindsets:
+
+Growth Mindset: They can learn and improve
+Servant Leadership: Remove obstacles for team
+Trust but Verify: Give autonomy, check results
+Lead by Example: Team mirrors your behavior
+
+Stress Management:
+
+Quick Relief (1-5 min): Deep breathing, walk, cold water, stretch
+Long-Term: Exercise, sleep, healthy eating, hobbies, boundaries
+Burnout Signs: Exhaustion, cynical, decreased performance, getting sick, not enjoying anything
+
+Conflict Resolution:
+
+Collaborative (Win-Win): "How can we both get what we need?"
+Compromising (Meet in Middle): "What can each of us give up?"
+Accommodating (Let Them Win): "Sure, your way"
+Competing (I Win): "This is how it must be"
+Avoiding (Walk Away): "Let's talk tomorrow"
+
+RECOMMENDED READING
+
+Management Classics:
+- "The One Minute Manager" by Ken Blanchard
+- "How to Win Friends and Influence People" by Dale Carnegie
+- "Good to Great" by Jim Collins
+- "Leaders Eat Last" by Simon Sinek
+
+Warehouse-Specific:
+- "The Lean Warehouse" by Ken Ackerman
+- "Warehouse Management" by Gwynne Richards
+- "World Class Warehousing" by Edward Frazelle
+
+Personal Development:
+- "Atomic Habits" by James Clear
+- "Deep Work" by Cal Newport
+- "Crucial Conversations" by Patterson & Grenny
+- "The 7 Habits of Highly Effective People" by Stephen Covey
+
+SKILL DEVELOPMENT PLAN
+
+Month 1-2: Foundation
+- Master templates
+- Learn WMS inside out
+- Build team relationships
+- Observe other managers
+- Get feedback
+
+Month 3-4: Communication
+- Practice SBAR reporting
+- Run huddles confidently
+- Have difficult conversation
+- Read management book
+- Join industry group
+
+Month 5-6: Leadership
+- Mentor new team member
+- Implement process improvement
+- Track and improve KPIs
+- Take online course
+- Teach team something
+
+Ongoing:
+- Read 1 book per quarter
+- Attend 1 training per month
+- Get team feedback regularly
+- Set development goals
+- Document learnings
+
+PRO TIPS
+
+Technology:
+- Automate repetitive tasks
+- Use templates
+- Back up everything
+- Learn keyboard shortcuts
+- Use two monitors
+
+Physical Tools:
+- Label everything
+- Keep tools where you use them
+- Maintain equipment
+- Organize workspace
+
+Communication:
+- Over-communicate
+- Document conversations
+- Use right channel
+- Follow up in writing
+
+Mental Frameworks:
+- Start with why
+- Think systems
+- Embrace feedback
+- Reflect daily
+
+QUICK REFERENCE CHECKLIST
+
+Am I Using the Right Tools?
+[ ] System to track orders/inventory
+[ ] Team can communicate easily
+[ ] Access information quickly
+[ ] Documenting important info
+[ ] Using time effectively
+
+Am I Developing My Skills?
+[ ] Learning something new monthly
+[ ] Getting feedback regularly
+[ ] Reading/studying management
+[ ] Practicing difficult conversations
+[ ] Reflecting on what works
+
+Am I Leading Effectively?
+[ ] Team knows expectations
+[ ] I'm visible and available
+[ ] Making fair decisions
+[ ] Developing team members
+[ ] Removing obstacles
+
+Remember: Pick 2-3 areas to improve, master those, then add more. Progress over perfection.
