@@ -5,7 +5,8 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 ## 📋 Available Templates (23 Total)
 
 ### Product Catalog
-- **QUEENSLANDER_AVIARIES_PRODUCT_CATALOG** - Complete product reference guide for Queenslander Aviaries bird supplies organized by category: Seed & Food, Toys, Cages & Equipment, Medicine & Health Products. Includes species-specific recommendations, stock organization tips, and customer FAQ responses.
+- **[QUEENSLANDER_AVIARIES_PRODUCT_CATALOG](guides/product-catalog/)** - Complete product reference guide for Queenslander Aviaries bird supplies organized by category
+  - Now organized into 7 sections: Seed & Food, Toys, Cages & Equipment, Medicine & Health, Popular Items by Bird, Stock Organization, Contact & Resources
 
 ### Daily Operations
 - **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
@@ -24,12 +25,18 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 - **SHIFT_HANDOFF_REPORT** - Pass critical info to next shift (priorities, issues, equipment status)
 
 ### Best Practices & Logic
-- **SUPERVISOR_BEST_PRACTICES** - Daily habits, decision logic, and proven behaviors for floor supervisors
-- **COMMON_PROBLEMS_QUICK_GUIDE** - Fast solutions to typical warehouse issues with problem-solving logic
-- **PERFORMANCE_COACHING_GUIDE** - Step-by-step coaching conversations, progressive discipline, difficult talk scripts
-- **METRICS_INTERPRETATION_GUIDE** - How to read numbers, spot trends, know when to take action
-- **EDGE_CASE_SCENARIOS_GUIDE** - Handle unusual situations: emergencies, security issues, people problems, facility failures
-- **MANAGEMENT_SKILLS_TOOLS_GUIDE** - Software tools, physical equipment, communication skills, mental frameworks, learning resources
+- **[SUPERVISOR_BEST_PRACTICES](guides/supervisor-best-practices/)** - Daily habits, decision logic, and proven behaviors for floor supervisors
+  - Now organized into 8 sections: Daily Habits, Decision Logic, Productivity, Communication, Training, Common Mistakes, Metrics, Key Reminders
+- **[COMMON_PROBLEMS_QUICK_GUIDE](guides/common-problems/)** - Fast solutions to typical warehouse issues with problem-solving logic
+  - Now organized into 7 sections: Order/Shipping, People, Equipment, Performance, Carrier, Inventory, Problem-Solving
+- **[PERFORMANCE_COACHING_GUIDE](guides/performance-coaching/)** - Step-by-step coaching conversations, progressive discipline, difficult talk scripts
+  - Now organized into 8 sections: When to Coach, Conversation Templates, Progressive Discipline, Scripts, Tracking, Goal Setting, Legal, Common Mistakes
+- **[METRICS_INTERPRETATION_GUIDE](guides/metrics/)** - How to read numbers, spot trends, know when to take action
+  - Now organized into 7 sections: KPIs, Trend Analysis, Red Flags, Setting Targets, Daily Checks, Comparing Metrics, Improvement
+- **[EDGE_CASE_SCENARIOS_GUIDE](guides/edge-cases/)** - Handle unusual situations: emergencies, security issues, people problems, facility failures
+  - Now organized into 9 sections: Emergency Situations, Financial/Security, People, Operations, Technology, Facility, Documentation, Customer, General Principles
+- **[MANAGEMENT_SKILLS_TOOLS_GUIDE](guides/management-skills/)** - Software tools, physical equipment, communication skills, mental frameworks, learning resources
+  - Now organized into 6 sections: Technology/Software, Physical Tools, Communication Skills, Mental Frameworks, Reading, Pro Tips
 
 ### Customer Service & Coordination
 - **CUSTOMER_SERVICE_ESCALATIONS** - Handle customer issues, coordinate with CS team, store/warehouse integration
@@ -74,12 +81,13 @@ Each template is available in two formats:
 | Check order quality | QUALITY_CONTROL_CHECKLIST |
 | Process returns | RETURNS_PROCESSING_LOG |
 | Track equipment & maintenance | EQUIPMENT_MAINTENANCE_LOG |
-| Learn best supervisor behaviors | SUPERVISOR_BEST_PRACTICES |
-| Quick fix for common problems | COMMON_PROBLEMS_QUICK_GUIDE |
-| Coach underperforming employees | PERFORMANCE_COACHING_GUIDE |
-| Understand what numbers mean | METRICS_INTERPRETATION_GUIDE |
-| Handle unusual/emergency situations | EDGE_CASE_SCENARIOS_GUIDE |
-| Improve skills & discover tools | MANAGEMENT_SKILLS_TOOLS_GUIDE |
+| Learn best supervisor behaviors | [SUPERVISOR_BEST_PRACTICES](guides/supervisor-best-practices/) |
+| Product catalog & bird supplies | [QUEENSLANDER_AVIARIES_PRODUCT_CATALOG](guides/product-catalog/) |
+| Quick fix for common problems | [COMMON_PROBLEMS_QUICK_GUIDE](guides/common-problems/) |
+| Coach underperforming employees | [PERFORMANCE_COACHING_GUIDE](guides/performance-coaching/) |
+| Understand what numbers mean | [METRICS_INTERPRETATION_GUIDE](guides/metrics/) |
+| Handle unusual/emergency situations | [EDGE_CASE_SCENARIOS_GUIDE](guides/edge-cases/) |
+| Improve skills & discover tools | [MANAGEMENT_SKILLS_TOOLS_GUIDE](guides/management-skills/) |
 
 ## 💡 Tips
 
@@ -93,3 +101,84 @@ Each template is available in two formats:
 - **P1 (Critical)**: Must ship in 4 hours or less - drop everything
 - **P2 (High)**: Must ship by end of day - prioritize these
 - **P3 (Standard)**: Normal SLA - fill in gaps
+
+## 📚 Enhanced Guide Structure
+
+The major guides have been split into dedicated section files for easier navigation. [View complete guide overview →](guides/)
+
+**Total:** 58 organized section files across 7 major guides
+
+### [Common Problems Quick Guide](guides/common-problems/)
+Fast solutions organized by problem type:
+- Order & Shipping Issues
+- People Problems
+- Equipment Issues
+- Performance Issues
+- Carrier & Shipping
+- Inventory Problems
+- Problem-Solving Logic
+
+### [Performance Coaching Guide](guides/performance-coaching/)
+Complete coaching framework:
+- When to Coach vs. Document
+- Conversation Templates
+- Progressive Discipline
+- Ready-to-Use Scripts
+- Performance Tracking
+- Goal Setting
+- Legal Considerations
+- Common Mistakes
+
+### [Metrics Interpretation Guide](guides/metrics/)
+Understanding your numbers:
+- Key Performance Indicators
+- Trend Analysis
+- Red Flags
+- Setting Targets
+- Daily Metrics Checks
+- Comparing Metrics
+- Using Metrics for Improvement
+
+### [Edge Case Scenarios Guide](guides/edge-cases/)
+Handling unusual situations:
+- Emergency Situations
+- Financial & Security
+- People Edge Cases
+- Operations Edge Cases
+- Technology Edge Cases
+- Facility Edge Cases
+- Documentation Edge Cases
+- Customer Edge Cases
+- General Principles
+
+### [Management Skills & Tools Guide](guides/management-skills/)
+Skills and resources for supervisors:
+- Technology & Software Tools
+- Physical Tools & Equipment
+- Communication Skills
+- Mental Frameworks & Mindsets
+- Recommended Reading
+- Pro Tips & Quick Reference
+
+### [Supervisor Best Practices](guides/supervisor-best-practices/)
+Daily habits and proven behaviors:
+- Daily Leadership Habits
+- Decision Logic (when things go wrong)
+- Productivity Behaviors
+- Communication Habits
+- Training & Development
+- Common Mistakes to Avoid
+- Numbers That Matter
+- Key Reminders
+
+### [Product Catalog](guides/product-catalog/)
+Queenslander Aviaries bird supplies:
+- Seed & Food
+- Toys
+- Cages & Equipment
+- Medicine & Health
+- Popular Items by Bird Type
+- Stock Organization
+- Contact & Resources
+
+Each guide has its own README with quick navigation links to help you find exactly what you need.
