@@ -2,17 +2,19 @@
 
 Practical, printable templates for pick/pack warehouse floor supervisors and shift managers. Quick-access tools for daily operations, team management, and shift handoffs.
 
-## 📋 Available Templates
+## 📋 Available Templates (19 Total)
 
 ### Daily Operations
 - **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
 - **DAILY_TASK_CHECKLIST** - Your start-to-end shift checklist with hourly tracking
 - **DAILY_SHIPMENT_LOG** - Log all shipments with carrier tracking and quality verification
+- **WEEKLY_GOALS_TRACKER** - Set and track weekly team and individual goals with daily progress checks
 
 ### Team Management
 - **PICKER_PERFORMANCE_TRACKER** - Monitor picker productivity, accuracy rates, and spot issues
 - **PACKING_STATION_CHECKLIST** - Daily packing station checklist with material inventory
 - **STAFF_SCHEDULE** - Weekly staff scheduling with zones and coverage tracking
+- **TRAINING_TRACKER** - Employee onboarding, cross-training matrix, skill gaps, certifications
 
 ### Shift Communication
 - **SHIFT_HANDOFF_REPORT** - Pass critical info to next shift (priorities, issues, equipment status)
@@ -26,6 +28,12 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 ### Customer Service & Coordination
 - **CUSTOMER_SERVICE_ESCALATIONS** - Handle customer issues, coordinate with CS team, store/warehouse integration
 - **MANAGER_COORDINATION_LOG** - Daily sync points and coordination with store manager (co-manager workflow)
+- **CUSTOMER_PICKUP_LOG** - Track and manage customer pickup orders, no-shows, and issues
+
+### Quality & Maintenance
+- **QUALITY_CONTROL_CHECKLIST** - Random order checks, quality standards, packing inspections
+- **RETURNS_PROCESSING_LOG** - Track returns, assess condition, restock or damage out decisions
+- **EQUIPMENT_MAINTENANCE_LOG** - Equipment status, maintenance requests, downtime tracking
 
 ## 📖 How to Use
 
@@ -47,12 +55,18 @@ Each template is available in two formats:
 | Track hot/rush orders for today | PRIORITY_ORDERS_TEMPLATE |
 | Your daily shift tasks | DAILY_TASK_CHECKLIST |
 | Log what shipped today | DAILY_SHIPMENT_LOG |
+| Set & track weekly goals | WEEKLY_GOALS_TRACKER |
 | Check picker speed & accuracy | PICKER_PERFORMANCE_TRACKER |
 | Setup/monitor packing stations | PACKING_STATION_CHECKLIST |
 | Make weekly staff schedule | STAFF_SCHEDULE |
+| Track employee training | TRAINING_TRACKER |
 | Hand off to next shift | SHIFT_HANDOFF_REPORT |
 | Handle customer complaints/issues | CUSTOMER_SERVICE_ESCALATIONS |
 | Coordinate with store manager | MANAGER_COORDINATION_LOG |
+| Manage customer pickup orders | CUSTOMER_PICKUP_LOG |
+| Check order quality | QUALITY_CONTROL_CHECKLIST |
+| Process returns | RETURNS_PROCESSING_LOG |
+| Track equipment & maintenance | EQUIPMENT_MAINTENANCE_LOG |
 | Learn best supervisor behaviors | SUPERVISOR_BEST_PRACTICES |
 | Quick fix for common problems | COMMON_PROBLEMS_QUICK_GUIDE |
 | Coach underperforming employees | PERFORMANCE_COACHING_GUIDE |

@@ -1,0 +1,99 @@
+CUSTOMER PICKUP LOG
+
+Date: __________________ | Location: Store/Warehouse
+
+Orders Ready for Pickup:
+
+Order ID	Customer Name	Phone	Order Date	Ready Time	Pickup Window	Items	Special Instructions	Status
+						Close: _____			[ ] Ready [ ] Picked Up [ ] No Show
+						Close: _____			[ ] Ready [ ] Picked Up [ ] No Show
+						Close: _____			[ ] Ready [ ] Picked Up [ ] No Show
+						Close: _____			[ ] Ready [ ] Picked Up [ ] No Show
+						Close: _____			[ ] Ready [ ] Picked Up [ ] No Show
+						Close: _____			[ ] Ready [ ] Picked Up [ ] No Show
+
+Pickup Completion Log:
+
+Time	Order ID	Customer Name	ID Verified	Signature	Released By	Notes
+				[ ] Yes				
+				[ ] Yes				
+				[ ] Yes				
+				[ ] Yes				
+				[ ] Yes				
+				[ ] Yes				
+
+Pickup Procedures:
+
+When Order is Ready:
+1. Move order to designated pickup area
+2. Label clearly with order # and customer name
+3. Update system status to "Ready for Pickup"
+4. Notify customer (text/email/call)
+5. Log on this sheet
+
+When Customer Arrives:
+1. Ask for order number or name
+2. Verify customer ID matches name on order
+3. Have customer sign for order
+4. Check items with customer (optional but recommended)
+5. Hand off order
+6. Update system status to "Picked Up"
+7. Log completion
+
+If Customer is Late/No Show:
+- Same Day: Hold in pickup area, attempt to contact
+- Next Day: Move to holding area, send reminder
+- After 3 Days: Contact about alternative (ship or extended hold)
+- After 7 Days: Process as abandoned/return to stock (per policy)
+
+No-Shows & Late Pickups:
+
+Order ID	Customer	Scheduled Pickup	Last Contact Attempt	Status	Action Taken
+					[ ] Waiting [ ] Rescheduled [ ] Returned	
+					[ ] Waiting [ ] Rescheduled [ ] Returned	
+					[ ] Waiting [ ] Rescheduled [ ] Returned	
+
+Pickup Area Organization:
+
+Designated Pickup Area: _______________________
+
+Storage Method:
+[ ] Shelves (organized by order #)
+[ ] Bins/Boxes (labeled)
+[ ] Hold area (separated by date)
+[ ] Other: _______________________
+
+Daily Cleanup:
+[ ] All picked-up orders removed from area
+[ ] Remaining orders checked for no-shows
+[ ] Area organized and clearly labeled
+[ ] Tomorrow's pickups prepared if possible
+
+Customer Pickup Issues:
+
+Time	Order ID	Issue	Resolution	Resolved By
+		[ ] Wrong Items [ ] Missing Items [ ] Damaged [ ] Customer Dispute [ ] Other		
+		[ ] Wrong Items [ ] Missing Items [ ] Damaged [ ] Customer Dispute [ ] Other		
+		[ ] Wrong Items [ ] Missing Items [ ] Damaged [ ] Customer Dispute [ ] Other		
+
+Daily Summary:
+
+- Total Orders Ready: _______
+- Orders Picked Up: _______
+- No Shows: _______
+- Issues/Problems: _______
+- Average Wait Time (if tracked): _______ minutes
+
+Communication Log:
+
+Time	Order ID	Contact Method	Spoke With	Purpose	Outcome
+		[ ] Call [ ] Text [ ] Email		[ ] Notify Ready [ ] Reminder [ ] Issue [ ] Other	[ ] Successful [ ] No Answer [ ] Voicemail
+		[ ] Call [ ] Text [ ] Email		[ ] Notify Ready [ ] Reminder [ ] Issue [ ] Other	[ ] Successful [ ] No Answer [ ] Voicemail
+		[ ] Call [ ] Text [ ] Email		[ ] Notify Ready [ ] Reminder [ ] Issue [ ] Other	[ ] Successful [ ] No Answer [ ] Voicemail
+
+Notes:
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
