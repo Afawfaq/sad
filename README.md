@@ -2,7 +2,10 @@
 
 Practical, printable templates for pick/pack warehouse floor supervisors and shift managers. Quick-access tools for daily operations, team management, and shift handoffs.
 
-## 📋 Available Templates (22 Total)
+## 📋 Available Templates (23 Total)
+
+### Product Catalog
+- **QUEENSLANDER_AVIARIES_PRODUCT_CATALOG** - Complete product reference guide for Queenslander Aviaries bird supplies organized by category: Seed & Food, Toys, Cages & Equipment, Medicine & Health Products. Includes species-specific recommendations, stock organization tips, and customer FAQ responses.
 
 ### Daily Operations
 - **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
