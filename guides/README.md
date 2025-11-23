@@ -2,7 +2,38 @@
 
 Welcome to the enhanced warehouse management guides! The major guides have been reorganized into dedicated sections for easier navigation and reference.
 
+**📖 Can't find what you're looking for?** Check the [Master Topic Index](TOPIC-INDEX.md) for A-Z topic directory.
+
 ## 📚 Available Guides
+
+### [Supervisor Best Practices](supervisor-best-practices/)
+**8 sections** covering daily habits and proven behaviors:
+- Daily Leadership Habits
+- Decision Logic (when things go wrong)
+- Productivity Behaviors
+- Communication Habits
+- Training & Development
+- Common Mistakes to Avoid
+- Numbers That Matter
+- Key Reminders
+
+**Use when:** You want a quick reference for daily supervisor responsibilities
+
+---
+
+### [Product Catalog](product-catalog/)
+**7 sections** covering Queenslander Aviaries bird supplies:
+- Seed & Food
+- Toys
+- Cages & Equipment
+- Medicine & Health
+- Popular Items by Bird Type
+- Stock Organization
+- Contact & Resources
+
+**Use when:** You need product information or customer assistance
+
+---
 
 ### [Common Problems Quick Guide](common-problems/)
 **8 sections** covering fast solutions to typical warehouse issues:

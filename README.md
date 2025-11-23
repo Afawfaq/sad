@@ -5,7 +5,8 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 ## 📋 Available Templates (23 Total)
 
 ### Product Catalog
-- **QUEENSLANDER_AVIARIES_PRODUCT_CATALOG** - Complete product reference guide for Queenslander Aviaries bird supplies organized by category: Seed & Food, Toys, Cages & Equipment, Medicine & Health Products. Includes species-specific recommendations, stock organization tips, and customer FAQ responses.
+- **[QUEENSLANDER_AVIARIES_PRODUCT_CATALOG](guides/product-catalog/)** - Complete product reference guide for Queenslander Aviaries bird supplies organized by category
+  - Now organized into 7 sections: Seed & Food, Toys, Cages & Equipment, Medicine & Health, Popular Items by Bird, Stock Organization, Contact & Resources
 
 ### Daily Operations
 - **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
@@ -24,7 +25,8 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 - **SHIFT_HANDOFF_REPORT** - Pass critical info to next shift (priorities, issues, equipment status)
 
 ### Best Practices & Logic
-- **SUPERVISOR_BEST_PRACTICES** - Daily habits, decision logic, and proven behaviors for floor supervisors
+- **[SUPERVISOR_BEST_PRACTICES](guides/supervisor-best-practices/)** - Daily habits, decision logic, and proven behaviors for floor supervisors
+  - Now organized into 8 sections: Daily Habits, Decision Logic, Productivity, Communication, Training, Common Mistakes, Metrics, Key Reminders
 - **[COMMON_PROBLEMS_QUICK_GUIDE](guides/common-problems/)** - Fast solutions to typical warehouse issues with problem-solving logic
   - Now organized into 7 sections: Order/Shipping, People, Equipment, Performance, Carrier, Inventory, Problem-Solving
 - **[PERFORMANCE_COACHING_GUIDE](guides/performance-coaching/)** - Step-by-step coaching conversations, progressive discipline, difficult talk scripts
@@ -79,7 +81,8 @@ Each template is available in two formats:
 | Check order quality | QUALITY_CONTROL_CHECKLIST |
 | Process returns | RETURNS_PROCESSING_LOG |
 | Track equipment & maintenance | EQUIPMENT_MAINTENANCE_LOG |
-| Learn best supervisor behaviors | SUPERVISOR_BEST_PRACTICES |
+| Learn best supervisor behaviors | [SUPERVISOR_BEST_PRACTICES](guides/supervisor-best-practices/) |
+| Product catalog & bird supplies | [QUEENSLANDER_AVIARIES_PRODUCT_CATALOG](guides/product-catalog/) |
 | Quick fix for common problems | [COMMON_PROBLEMS_QUICK_GUIDE](guides/common-problems/) |
 | Coach underperforming employees | [PERFORMANCE_COACHING_GUIDE](guides/performance-coaching/) |
 | Understand what numbers mean | [METRICS_INTERPRETATION_GUIDE](guides/metrics/) |
@@ -103,7 +106,7 @@ Each template is available in two formats:
 
 The major guides have been split into dedicated section files for easier navigation. [View complete guide overview →](guides/)
 
-**Total:** 42 organized section files across 5 major guides
+**Total:** 58 organized section files across 7 major guides
 
 ### [Common Problems Quick Guide](guides/common-problems/)
 Fast solutions organized by problem type:
@@ -156,5 +159,26 @@ Skills and resources for supervisors:
 - Mental Frameworks & Mindsets
 - Recommended Reading
 - Pro Tips & Quick Reference
+
+### [Supervisor Best Practices](guides/supervisor-best-practices/)
+Daily habits and proven behaviors:
+- Daily Leadership Habits
+- Decision Logic (when things go wrong)
+- Productivity Behaviors
+- Communication Habits
+- Training & Development
+- Common Mistakes to Avoid
+- Numbers That Matter
+- Key Reminders
+
+### [Product Catalog](guides/product-catalog/)
+Queenslander Aviaries bird supplies:
+- Seed & Food
+- Toys
+- Cages & Equipment
+- Medicine & Health
+- Popular Items by Bird Type
+- Stock Organization
+- Contact & Resources
 
 Each guide has its own README with quick navigation links to help you find exactly what you need.
