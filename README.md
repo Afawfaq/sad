@@ -1,34 +1,56 @@
-# Priority Orders Management Templates
+# Warehouse Floor Supervisor Templates
 
-This repository contains printable templates for managing priority orders in a warehouse or fulfillment environment.
+Practical, printable templates for pick/pack warehouse floor supervisors and shift managers. Quick-access tools for daily operations, team management, and shift handoffs.
 
-## Available Templates
+## 📋 Available Templates
 
-### 1. PRIORITY_ORDERS_TEMPLATE.md
-A markdown-formatted template with a clean table layout. Great for viewing on GitHub or converting to other formats.
+### Daily Operations
+- **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
+- **DAILY_TASK_CHECKLIST** - Your start-to-end shift checklist with hourly tracking
+- **DAILY_SHIPMENT_LOG** - Log all shipments with carrier tracking and quality verification
 
-### 2. PRIORITY_ORDERS_TEMPLATE.txt
-A plain text template that can be easily copied and pasted into any document editor (Word, Google Docs, etc.).
+### Team Management
+- **PICKER_PERFORMANCE_TRACKER** - Monitor picker productivity, accuracy rates, and spot issues
+- **PACKING_STATION_CHECKLIST** - Daily packing station checklist with material inventory
+- **STAFF_SCHEDULE** - Weekly staff scheduling with zones and coverage tracking
 
-## How to Use
+### Shift Communication
+- **SHIFT_HANDOFF_REPORT** - Pass critical info to next shift (priorities, issues, equipment status)
 
-1. **Copy & Paste Method**: Open the `.txt` file, copy all contents, and paste into your preferred document editor
-2. **Print from GitHub**: Open the `.md` file on GitHub and use your browser's print function
-3. **Download & Edit**: Download either file and customize as needed for your workflow
+## 📖 How to Use
 
-## Priority System
+Each template is available in two formats:
 
-- **P1 (Critical)**: Must ship within 4 hours
-- **P2 (High)**: Must ship by EOD (End of Day)
-- **P3 (Standard)**: Standard SLA applies
+1. **`.md` (Markdown)** - Clean formatted tables, view on GitHub or print to PDF
+2. **`.txt` (Plain Text)** - Tab-separated, easy copy/paste into Word/Excel
 
-## Template Fields
+### Quick Start
 
-- **Order ID**: Unique identifier for the order
-- **Customer Name**: Name of the customer
-- **Received Time**: When the order was received
-- **Deadline**: When the order must ship
-- **Priority**: P1, P2, or P3 classification
-- **Items/SKU**: Products in the order
-- **Status**: Current status (e.g., Pending, In Progress, Shipped)
-- **Assignee**: Team member responsible for the order
+1. **Print & Go**: Open `.md` files on GitHub, hit Ctrl+P / Cmd+P, print for your shift
+2. **Copy & Edit**: Open `.txt` files, copy into Word/Excel, fill in during shift
+3. **Bookmark It**: Save this GitHub page on your work computer for fast access
+
+## 📞 Quick Reference - Which Template to Use
+
+| What You Need to Do | Use This |
+|---------------------|----------|
+| Track hot/rush orders for today | PRIORITY_ORDERS_TEMPLATE |
+| Your daily shift tasks | DAILY_TASK_CHECKLIST |
+| Log what shipped today | DAILY_SHIPMENT_LOG |
+| Check picker speed & accuracy | PICKER_PERFORMANCE_TRACKER |
+| Setup/monitor packing stations | PACKING_STATION_CHECKLIST |
+| Make weekly staff schedule | STAFF_SCHEDULE |
+| Hand off to next shift | SHIFT_HANDOFF_REPORT |
+
+## 💡 Tips
+
+- **Print at shift start** - Grab what you need, fill it out as you go
+- **Keep it simple** - Don't overthink it, these are tools to make your job easier
+- **Customize** - Edit the .txt files to match your warehouse setup
+- **Save copies** - Keep completed forms for your records (CYA!)
+
+## Priority Levels Explained
+
+- **P1 (Critical)**: Must ship in 4 hours or less - drop everything
+- **P2 (High)**: Must ship by end of day - prioritize these
+- **P3 (Standard)**: Normal SLA - fill in gaps
