@@ -20,6 +20,8 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 ### Best Practices & Logic
 - **SUPERVISOR_BEST_PRACTICES** - Daily habits, decision logic, and proven behaviors for floor supervisors
 - **COMMON_PROBLEMS_QUICK_GUIDE** - Fast solutions to typical warehouse issues with problem-solving logic
+- **PERFORMANCE_COACHING_GUIDE** - Step-by-step coaching conversations, progressive discipline, difficult talk scripts
+- **METRICS_INTERPRETATION_GUIDE** - How to read numbers, spot trends, know when to take action
 
 ### Customer Service & Coordination
 - **CUSTOMER_SERVICE_ESCALATIONS** - Handle customer issues, coordinate with CS team, store/warehouse integration
@@ -53,6 +55,8 @@ Each template is available in two formats:
 | Coordinate with store manager | MANAGER_COORDINATION_LOG |
 | Learn best supervisor behaviors | SUPERVISOR_BEST_PRACTICES |
 | Quick fix for common problems | COMMON_PROBLEMS_QUICK_GUIDE |
+| Coach underperforming employees | PERFORMANCE_COACHING_GUIDE |
+| Understand what numbers mean | METRICS_INTERPRETATION_GUIDE |
 
 ## 💡 Tips
 
