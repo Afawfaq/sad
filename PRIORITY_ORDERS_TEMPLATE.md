@@ -10,7 +10,7 @@
 
 ## Orders Tracking Table
 
-| Order ID | Customer Name | Received Time | Deadline | Priority (P1/P2) | Items/SKU | Status | Assignee |
+| Order ID | Customer Name | Received Time | Deadline | Priority (P1/P2/P3) | Items/SKU | Status | Assignee |
 |----------|---------------|---------------|----------|------------------|-----------|--------|----------|
 | #        |               |               |          |                  |           |        |          |
 | #        |               |               |          |                  |           |        |          |

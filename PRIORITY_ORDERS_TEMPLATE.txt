@@ -8,7 +8,7 @@ Priority Legend:
     P2 (High): Must ship by EOD.
     P3 (Standard): Standard SLA applies.
 
-Order ID	Customer Name	Received Time	Deadline	Priority (P1/P2)	Items/SKU	Status	Assignee
+Order ID	Customer Name	Received Time	Deadline	Priority (P1/P2/P3)	Items/SKU	Status	Assignee
 #							
 #							
 #							
