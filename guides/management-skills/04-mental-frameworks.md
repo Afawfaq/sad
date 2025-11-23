@@ -5,11 +5,11 @@ Decision-making models and leadership mindsets for warehouse supervisors.
 ## 🧠 Decision-Making Models
 
 ### Eisenhower Matrix (Urgent/Important)
-```
-        Urgent          | Not Urgent
-Important: DO NOW      | SCHEDULE
-Not Important: DELEGATE| ELIMINATE
-```
+
+|                | Urgent       | Not Urgent  |
+|----------------|--------------|-------------|
+| **Important**     | DO NOW       | SCHEDULE    |
+| **Not Important** | DELEGATE     | ELIMINATE   |
 
 ### 5 Whys (Root Cause Analysis)
 Ask "why" 5 times to find real problem:

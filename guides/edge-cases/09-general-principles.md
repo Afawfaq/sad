@@ -27,4 +27,6 @@
 4. **Business needs** - Keep operations running
 5. **Everything else** - Can be figured out later
 
-**Remember:** Edge cases are called that because they're rare. Don't stress about knowing every possible scenario. Use good judgment, prioritize safety and ethics, and escalate when needed.
+---
+
+> **Remember:** Edge cases are called that because they're rare. Don't stress about knowing every possible scenario. Use good judgment, prioritize safety and ethics, and escalate when needed.
