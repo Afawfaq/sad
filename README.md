@@ -2,7 +2,7 @@
 
 Practical, printable templates for pick/pack warehouse floor supervisors and shift managers. Quick-access tools for daily operations, team management, and shift handoffs.
 
-## 📋 Available Templates (20 Total)
+## 📋 Available Templates (22 Total)
 
 ### Daily Operations
 - **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
@@ -25,6 +25,8 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 - **COMMON_PROBLEMS_QUICK_GUIDE** - Fast solutions to typical warehouse issues with problem-solving logic
 - **PERFORMANCE_COACHING_GUIDE** - Step-by-step coaching conversations, progressive discipline, difficult talk scripts
 - **METRICS_INTERPRETATION_GUIDE** - How to read numbers, spot trends, know when to take action
+- **EDGE_CASE_SCENARIOS_GUIDE** - Handle unusual situations: emergencies, security issues, people problems, facility failures
+- **MANAGEMENT_SKILLS_TOOLS_GUIDE** - Software tools, physical equipment, communication skills, mental frameworks, learning resources
 
 ### Customer Service & Coordination
 - **CUSTOMER_SERVICE_ESCALATIONS** - Handle customer issues, coordinate with CS team, store/warehouse integration
@@ -73,6 +75,8 @@ Each template is available in two formats:
 | Quick fix for common problems | COMMON_PROBLEMS_QUICK_GUIDE |
 | Coach underperforming employees | PERFORMANCE_COACHING_GUIDE |
 | Understand what numbers mean | METRICS_INTERPRETATION_GUIDE |
+| Handle unusual/emergency situations | EDGE_CASE_SCENARIOS_GUIDE |
+| Improve skills & discover tools | MANAGEMENT_SKILLS_TOOLS_GUIDE |
 
 ## 💡 Tips
 
