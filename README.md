@@ -2,11 +2,12 @@
 
 Practical, printable templates for pick/pack warehouse floor supervisors and shift managers. Quick-access tools for daily operations, team management, and shift handoffs.
 
-## 📋 Available Templates (19 Total)
+## 📋 Available Templates (20 Total)
 
 ### Daily Operations
 - **PRIORITY_ORDERS_TEMPLATE** - Track urgent orders with P1/P2/P3 priority system (Critical < 4hrs, High = EOD, Standard)
 - **DAILY_TASK_CHECKLIST** - Your start-to-end shift checklist with hourly tracking
+- **DAILY_HUDDLE_TRACKER** - 5-minute team meeting tracker with incomplete tasks, assignments, multilingual support
 - **DAILY_SHIPMENT_LOG** - Log all shipments with carrier tracking and quality verification
 - **WEEKLY_GOALS_TRACKER** - Set and track weekly team and individual goals with daily progress checks
 
@@ -54,6 +55,7 @@ Each template is available in two formats:
 |---------------------|----------|
 | Track hot/rush orders for today | PRIORITY_ORDERS_TEMPLATE |
 | Your daily shift tasks | DAILY_TASK_CHECKLIST |
+| Run 5-minute team huddles | DAILY_HUDDLE_TRACKER |
 | Log what shipped today | DAILY_SHIPMENT_LOG |
 | Set & track weekly goals | WEEKLY_GOALS_TRACKER |
 | Check picker speed & accuracy | PICKER_PERFORMANCE_TRACKER |
