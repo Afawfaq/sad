@@ -17,6 +17,14 @@ Practical, printable templates for pick/pack warehouse floor supervisors and shi
 ### Shift Communication
 - **SHIFT_HANDOFF_REPORT** - Pass critical info to next shift (priorities, issues, equipment status)
 
+### Best Practices & Logic
+- **SUPERVISOR_BEST_PRACTICES** - Daily habits, decision logic, and proven behaviors for floor supervisors
+- **COMMON_PROBLEMS_QUICK_GUIDE** - Fast solutions to typical warehouse issues with problem-solving logic
+
+### Customer Service & Coordination
+- **CUSTOMER_SERVICE_ESCALATIONS** - Handle customer issues, coordinate with CS team, store/warehouse integration
+- **MANAGER_COORDINATION_LOG** - Daily sync points and coordination with store manager (co-manager workflow)
+
 ## 📖 How to Use
 
 Each template is available in two formats:
@@ -41,6 +49,10 @@ Each template is available in two formats:
 | Setup/monitor packing stations | PACKING_STATION_CHECKLIST |
 | Make weekly staff schedule | STAFF_SCHEDULE |
 | Hand off to next shift | SHIFT_HANDOFF_REPORT |
+| Handle customer complaints/issues | CUSTOMER_SERVICE_ESCALATIONS |
+| Coordinate with store manager | MANAGER_COORDINATION_LOG |
+| Learn best supervisor behaviors | SUPERVISOR_BEST_PRACTICES |
+| Quick fix for common problems | COMMON_PROBLEMS_QUICK_GUIDE |
 
 ## 💡 Tips
 

@@ -1,0 +1,215 @@
+CUSTOMER SERVICE ESCALATIONS LOG
+
+Date: __________________ | Shift: __________________ | Manager: __________________
+
+Active Escalations - Requires Immediate Action:
+
+Time	Order ID	Customer Name	Issue	Promised Resolution	Action Taken	Status	Resolved By
+							[ ] Open [ ] Resolved	
+							[ ] Open [ ] Resolved	
+							[ ] Open [ ] Resolved	
+							[ ] Open [ ] Resolved	
+							[ ] Open [ ] Resolved	
+
+COMMON ISSUE TYPES
+
+"Where is my order?" (WISMO)
+Your Response Logic:
+1. Check order status in system
+2. If shipped: Provide tracking, check carrier status
+3. If not shipped: Give honest timeline
+4. If delayed: Explain why, offer solution
+
+What CS Needs From You:
+- Actual ship date/time
+- Reason for delay (if any)
+- Realistic delivery estimate
+
+"Wrong item received"
+Immediate Actions:
+1. Verify: Check pick history
+2. Find correct item: Is it in stock?
+3. Ship replacement: Rush ship if available
+4. Return process: Email return label
+
+What CS Needs From You:
+- Confirmation we have correct item
+- Ship date for replacement
+- Whether customer needs to return wrong item
+
+"Item arrived damaged"
+Quick Assessment:
+1. Ask CS for photo
+2. Our packing issue? → Coach packer
+3. Carrier damage? → File claim
+4. Immediate: Ship replacement if in stock
+
+What CS Needs From You:
+- Can we reship today?
+- Better packaging for this item?
+- Is this recurring problem?
+
+"Need order rushed/changed"
+Before You Promise:
+1. Check order status: Picked? Packed? Shipped?
+2. If not picked: Easy to modify
+3. If packed not shipped: Can we unpack?
+4. If shipped: Too late
+
+What CS Needs From You:
+- Can we do it? Yes/No
+- If yes: By when?
+- If no: Clear reason
+
+"Item out of stock but system showed available"
+Your Actions:
+1. Verify: Physical check
+2. Update CS: Real stock count
+3. Options: Substitute, backorder, refund
+4. Fix: Report inventory discrepancy
+
+What CS Needs From You:
+- When will we have it?
+- Alternative options?
+- Affecting other orders?
+
+STORE/WAREHOUSE COORDINATION
+
+"Store needs item from warehouse"
+Process:
+1. Check priority: Store vs warehouse urgency
+2. If store priority: Pull from warehouse stock
+3. If warehouse priority: Give store wait time
+4. Document transfer
+
+Balance: Store customers are here NOW, warehouse has deadlines
+
+"Customer returning item to store"
+Your Role:
+1. Store brings item: Check condition
+2. Resellable? → Back to stock
+3. Damaged? → Returns area
+4. Process return in system
+5. Update inventory
+Don't: Let returns pile up - process same day
+
+"Customer wants to pick up order at store"
+Coordination:
+1. Verify order picked and packed
+2. Label "STORE PICKUP" clearly
+3. Move to pickup area
+4. Notify store when ready
+5. Customer shows ID: Store releases order
+Timeline: Ready within 2 hours
+
+COMMUNICATION TEMPLATES
+
+To Customer Service Team:
+
+When Order is Delayed:
+"Order #____ delayed. Reason: [why]. New ship date: [date]. CS can offer: [discount/free shipping]"
+
+When Item Out of Stock:
+"Item SKU ____ out of stock. Count: ___. Restock: [date]. Substitute: SKU ____"
+
+When Rush Order Completed:
+"Order #____ rushed. Shipped [time] via [carrier]. Tracking: [#]. Arrives: [date]"
+
+When Problem Fixed:
+"Order #____ resolved. [Action taken]. Customer receives [when]. No further action."
+
+From Customer Service (What You Need):
+- What did CS promise?
+- By when?
+- Special handling needed?
+- Customer history (VIP? Problem customer?)
+
+DAILY CS COORDINATION CHECKLIST
+
+Morning:
+[ ] Check CS inbox for overnight issues
+[ ] Review orders flagged as urgent/problem
+[ ] Communicate known issues to CS
+[ ] Brief team on priority customer orders
+
+Throughout Day:
+[ ] Respond to CS within 30 minutes
+[ ] Update CS on escalated orders
+[ ] Alert CS if new problems arise
+[ ] Prioritize customer-facing issues
+
+End of Shift:
+[ ] Close resolved escalations
+[ ] Hand off open issues
+[ ] Summary to CS of pending orders
+
+ESCALATION PRIORITY GUIDE
+
+Priority 1 - Handle Immediately:
+- Customer waiting at store
+- VIP customer complaint
+- Order for event/deadline
+- Media/social media complaint
+- Product safety issue
+
+Priority 2 - Handle Same Day:
+- Wrong item shipped
+- Damaged item
+- Multiple failed deliveries
+- Customer threatening cancellation
+- Large order issue ($500+)
+
+Priority 3 - Within 24 Hours:
+- "Where is my order"
+- Delivery delay questions
+- Minor packaging issues
+- Tracking questions
+- Return processing
+
+METRICS TO TRACK
+
+CS-Related Issues:
+- Escalations per day
+- Average resolution time
+- Repeat issues
+- By category
+
+Use Data To:
+- Identify patterns
+- Improve processes
+- Train team
+- Reduce escalations
+
+RED FLAGS - ESCALATE UP
+
+- Legal threats
+- Product safety concern
+- Multiple complaints same issue
+- Media/influencer involved
+- Fraud suspected
+- Misconduct allegation
+
+Don't try to handle alone
+
+REMEMBER
+
+CS is Your Partner:
+- They're voice to customers
+- You're the action
+- Communication prevents problems
+
+Your Role:
+- Be honest about timelines
+- Under-promise, over-deliver
+- Fix problems fast
+- Keep CS informed
+
+Balance:
+- Customer satisfaction matters
+- Not at expense of all orders
+- Use priority system
+
+When in Doubt:
+- What's best for business?
+- Customer lifetime value?
+- Default: Make it right if reasonable
