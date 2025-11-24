@@ -2,7 +2,51 @@
 
 Practical, printable templates for pick/pack warehouse floor supervisors and shift managers. Quick-access tools for daily operations, team management, and shift handoffs.
 
-## 📋 Available Templates (23 Total)
+## 🎉 What's New - Massively Enhanced!
+
+**Over 120KB of new content added!** The repository has been greatly enhanced with:
+- ✅ **4 comprehensive workflow guides** (50KB+) - Step-by-step operational procedures
+- ✅ **8 new specialized templates** (95KB+) - Incident reports, PIPs, cycle counting, safety, carriers, meetings, onboarding
+- ✅ **Brisbane/QLD localization** (11KB) - Australian compliance, carriers, regulations, emergency contacts
+- ✅ **Enhanced structure** - Modularized content into logical directories
+- ✅ **Professional signage library** - Ready-to-use sign templates compliant with AS 1319
+- ✅ **Extensive checklists** - More editable fields, sections, and tracking capabilities
+- ✅ **Detailed procedures** - From receiving to shipping, every step documented
+- ✅ **Australian compliance** - WorkSafe QLD, Fair Work, Australian Standards integrated
+
+**Total Enhancement:** 120,000+ characters of new, detailed, editable content for Brisbane supervisors!
+
+**Location:** Brisbane, Queensland, Australia 🇦🇺
+
+## 📋 Available Templates (35+ Total)
+
+### 🚀 NEW: Operational Workflows (Detailed Guides)
+- **[WORKFLOWS DIRECTORY](workflows/)** - Complete operational workflow library with 50KB+ of detailed procedures
+  - **[Incoming Goods Receiving](workflows/incoming-goods.md)** (10KB) - Complete receiving process from truck arrival to storage
+  - **[Storage Operations & Inventory](workflows/storage-operations.md)** (14KB) - Putaway, organization, cycle counting, FIFO
+  - **[Dispatch & Shipping Process](workflows/dispatch-process.md)** (15KB) - Pick, pack, QC, carrier coordination end-to-end
+  - **[Signage & Visual Management](workflows/signage-templates.md)** (15KB) - Professional signage templates and visual tools
+  - See [workflows/README.md](workflows/README.md) for complete navigation guide
+
+### 🆕 NEW: Safety, Performance & Operations
+- **[INCIDENT_REPORT_TEMPLATE](INCIDENT_REPORT_TEMPLATE.md)** (11KB) - Comprehensive incident reporting with WorkSafe QLD compliance
+- **[PERFORMANCE_IMPROVEMENT_PLAN](PERFORMANCE_IMPROVEMENT_PLAN.md)** (16KB) - Structured PIP with goals, tracking, and outcomes
+- **[INVENTORY_CYCLE_COUNT](INVENTORY_CYCLE_COUNT.md)** (11KB) - Complete cycle counting procedures with variance investigation
+- **[SAFETY_INSPECTION_CHECKLIST](SAFETY_INSPECTION_CHECKLIST.md)** (14KB) - Daily safety inspection with Australian Standards (AS 1319)
+- **[CARRIER_PERFORMANCE_TRACKER](CARRIER_PERFORMANCE_TRACKER.md)** (14KB) - Track Australian carriers (Australia Post, StarTrack, Toll, etc.)
+- **[TEAM_MEETING_MINUTES](TEAM_MEETING_MINUTES.md)** (14KB) - Structured meeting minutes with action item tracking
+- **[ONBOARDING_FIRST_WEEK](ONBOARDING_FIRST_WEEK.md)** (16KB) - Detailed day-by-day onboarding guide for new employees
+
+### 🌏 Brisbane, Queensland Location
+- **[BRISBANE_LOCATION_REFERENCE](BRISBANE_LOCATION_REFERENCE.md)** (11KB) - Complete Brisbane operational guide
+  - Queensland climate and seasonal considerations
+  - Brisbane public holidays (including Ekka holiday)
+  - Australian carriers and logistics information
+  - WorkSafe Queensland and Fair Work compliance
+  - Brisbane traffic patterns and delivery routes
+  - Emergency contacts (000, WorkSafe: 1300 362 128)
+  - Heat safety and storm season protocols
+  - Local suppliers and services
 
 ### Product Catalog
 - **[QUEENSLANDER_AVIARIES_PRODUCT_CATALOG](guides/product-catalog/)** - Complete product reference guide for Queenslander Aviaries bird supplies organized by category
@@ -65,6 +109,18 @@ Each template is available in two formats:
 
 | What You Need to Do | Use This |
 |---------------------|----------|
+| **🆕 Receive a delivery** | **[Incoming Goods Workflow](workflows/incoming-goods.md)** |
+| **🆕 Put away inventory** | **[Storage Operations](workflows/storage-operations.md)** |
+| **🆕 Pick and pack orders** | **[Dispatch Process](workflows/dispatch-process.md)** |
+| **🆕 Create warehouse signs** | **[Signage Templates](workflows/signage-templates.md)** |
+| **🆕 Document an incident** | **[INCIDENT_REPORT_TEMPLATE](INCIDENT_REPORT_TEMPLATE.md)** |
+| **🆕 Create a performance plan** | **[PERFORMANCE_IMPROVEMENT_PLAN](PERFORMANCE_IMPROVEMENT_PLAN.md)** |
+| **🆕 Do cycle counting** | **[INVENTORY_CYCLE_COUNT](INVENTORY_CYCLE_COUNT.md)** |
+| **🆕 Daily safety inspection** | **[SAFETY_INSPECTION_CHECKLIST](SAFETY_INSPECTION_CHECKLIST.md)** |
+| **🆕 Track carrier performance (AU)** | **[CARRIER_PERFORMANCE_TRACKER](CARRIER_PERFORMANCE_TRACKER.md)** |
+| **🆕 Record team meeting** | **[TEAM_MEETING_MINUTES](TEAM_MEETING_MINUTES.md)** |
+| **🆕 Onboard new employee** | **[ONBOARDING_FIRST_WEEK](ONBOARDING_FIRST_WEEK.md)** |
+| **🇦🇺 Brisbane location info** | **[BRISBANE_LOCATION_REFERENCE](BRISBANE_LOCATION_REFERENCE.md)** |
 | Track hot/rush orders for today | PRIORITY_ORDERS_TEMPLATE |
 | Your daily shift tasks | DAILY_TASK_CHECKLIST |
 | Run 5-minute team huddles | DAILY_HUDDLE_TRACKER |
