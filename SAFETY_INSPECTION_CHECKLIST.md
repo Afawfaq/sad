@@ -120,7 +120,7 @@ _______________________________________________________________________
 
 **Last Alarm Test Date:** __________
 
-**Next Test Due:** __________ (Required: 6-monthly per AS 1851)
+**Next Test Due:** __________ (Required: 6-monthly per AS 1851-2012 series)
 
 **Emergency Contact Numbers Posted:**
 - [ ] Emergency Services: 000

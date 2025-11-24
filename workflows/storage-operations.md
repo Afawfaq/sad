@@ -80,7 +80,7 @@ Before moving any item to storage:
 
 ---
 
-## Step 4: Store Item Properly
+### Step 4: Store Item Properly
 
 ### General Storage Guidelines
 - [ ] Heavy items on bottom, light on top

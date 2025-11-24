@@ -604,7 +604,8 @@ Attachment: Zip tie or adhesive pouch
 
 **Document Control:**
 - **Location:** Brisbane, Queensland, Australia
-- **Compliance:** AS 1319:1994, WHS Act 2011 (Qld), WHS Regulation 2011 (Qld)
+- **Compliance:** AS 1319-1994 (Safety signs), WHS Act 2011 (Qld), WHS Regulation 2011 (Qld)
+- **Note:** Verify current Australian Standards for safety signage compliance
 - **Version:** 1.0
 - **Last Review:** __________
 - **Next Review:** __________

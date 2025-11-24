@@ -338,7 +338,7 @@ Level 11, 1 William Street, Brisbane QLD 4000
 
 ### Minimum Employment Standards (Australia)
 
-**Minimum Wage:** $23.23 per hour (as of July 2023 - check fairwork.gov.au for current rate)
+**Minimum Wage:** Check fairwork.gov.au for current National Minimum Wage rate
 
 **Casual Loading:** +25% of base wage
 

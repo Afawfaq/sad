@@ -136,13 +136,13 @@ _______________________________________________________________________
 
 **Month:** __________________
 
-### UPS Performance
+### Australia Post Performance
 
 **Volume:**
 - Total Packages Shipped: _______
-- Ground: _______
-- 2-Day: _______
-- Next Day: _______
+- Express Post: _______
+- Parcel Post: _______
+- International: _______
 
 **Pickup Performance:**
 - Scheduled Pickups: _______
@@ -160,19 +160,19 @@ _______________________________________________________________________
 **Claims:**
 - Claims Filed: _______
 - Claims Resolved: _______
-- Total Claim Value: $________
+- Total Claim Value: $________ (AUD)
 
 **Overall Rating:** ☐ Excellent ☐ Good ☐ Fair ☐ Poor
 
 ---
 
-### FedEx Performance
+### StarTrack Performance
 
 **Volume:**
 - Total Packages Shipped: _______
-- Ground: _______
-- Express: _______
-- Priority Overnight: _______
+- Road Express: _______
+- Premium: _______
+- International: _______
 
 **Pickup Performance:**
 - Scheduled Pickups: _______
@@ -190,18 +190,18 @@ _______________________________________________________________________
 **Claims:**
 - Claims Filed: _______
 - Claims Resolved: _______
-- Total Claim Value: $________
+- Total Claim Value: $________ (AUD)
 
 **Overall Rating:** ☐ Excellent ☐ Good ☐ Fair ☐ Poor
 
 ---
 
-### USPS Performance
+### Toll / Toll Priority Performance
 
 **Volume:**
 - Total Packages Shipped: _______
-- Priority Mail: _______
-- First Class: _______
+- Road Express: _______
+- IPEC: _______
 - Other: _______
 
 **Pickup Performance:**
