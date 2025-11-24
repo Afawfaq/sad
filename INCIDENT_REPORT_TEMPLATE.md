@@ -78,6 +78,8 @@ _______________________________________________________________________
 ☐ Emergency services called (911)  
 ☐ Declined medical treatment (signed waiver)
 
+**Location:** Brisbane, Queensland, Australia
+
 **Was PPE (Personal Protective Equipment) being worn?**  
 ☐ Yes - proper PPE worn  
 ☐ No - PPE not worn (required)  
@@ -271,21 +273,29 @@ Signature: ________________________
 
 ---
 
-## REGULATORY REPORTING
+## REGULATORY REPORTING (AUSTRALIA)
 
-**Does this incident require reporting to OSHA or other agency?**  
+**Does this incident require reporting to WorkSafe Queensland?**  
 ☐ Yes ☐ No ☐ Unsure (consult safety officer/HR)
 
-**If yes:**
-- [ ] OSHA 300 Log updated
-- [ ] OSHA Form 301 completed
-- [ ] Reported to agency (date: __________)
-- [ ] State/local authorities notified
+**Notifiable Incident Types (Must report immediately to WorkSafe QLD):**
+- ☐ Death of a person
+- ☐ Serious injury or illness (hospitalisation, amputation, dangerous substance exposure)
+- ☐ Dangerous incident (explosion, collapse, uncontrolled implosion, fire, etc.)
 
-**Workers' Compensation Claim:**  
-☐ Filed (claim #: _____________)  
+**If yes:**
+- [ ] WorkSafe Queensland notified: Phone 1300 362 128
+- [ ] Online notification completed: worksafe.qld.gov.au
+- [ ] Incident notification number: ______________
+- [ ] Incident site preserved (if required)
+- [ ] Reported to agency (date/time: __________)
+
+**Workers' Compensation Claim (WorkCover Queensland):**  
+☐ Filed with WorkCover QLD (claim #: _____________)  
 ☐ Not required  
 ☐ Pending
+- WorkCover Queensland: 1300 362 128
+- Injury hotline: 1300 362 128
 
 ---
 

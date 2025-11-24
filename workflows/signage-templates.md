@@ -80,7 +80,9 @@ Placement: Front edge of shelf/bin, clearly visible
 
 ## ⚠️ Safety Signage
 
-### Required Safety Signs (Regulatory Compliance)
+### Required Safety Signs (Australian Standards Compliance)
+
+**Note:** All safety signage must comply with AS 1319:1994 (Safety signs for the occupational environment) and Queensland WHS regulations.
 
 **Exit Signs**
 ```
@@ -407,15 +409,15 @@ Location: Near cycle count staging area
 | P2 High | 🟠 Orange | Orange label on order |
 | P3 Standard | 🟢 Green | Green or no special label |
 
-### Safety Color Standards
+### Safety Color Standards (AS 1319:1994)
 
-| Color | Meaning | Use |
-|-------|---------|-----|
-| Red | Danger, Stop, Fire | Emergency equipment, stop buttons |
-| Yellow | Caution, Warning | Hazard warnings, forklift zones |
-| Green | Safe, Go, First Aid | Exit signs, safety equipment |
-| Blue | Information, Mandatory | PPE required, instructions |
-| Orange | Warning, Alert | Moderate hazard, construction |
+| Color | Meaning | Use | Australian Standard |
+|-------|---------|-----|---------------------|
+| Red | Danger, Stop, Fire, Emergency | Emergency equipment, stop buttons | AS 1319 |
+| Yellow | Caution, Warning | Hazard warnings, forklift zones | AS 1319 |
+| Green | Safe, Go, First Aid, Emergency Egress | Exit signs, safety equipment | AS 1319 |
+| Blue | Mandatory Action | PPE required, mandatory instructions | AS 1319 |
+| Orange/Fluorescent | Warning, High Visibility | Traffic management, construction | AS 1319 |
 
 ---
 
@@ -601,6 +603,8 @@ Attachment: Zip tie or adhesive pouch
 ---
 
 **Document Control:**
+- **Location:** Brisbane, Queensland, Australia
+- **Compliance:** AS 1319:1994, WHS Act 2011 (Qld), WHS Regulation 2011 (Qld)
 - **Version:** 1.0
 - **Last Review:** __________
 - **Next Review:** __________

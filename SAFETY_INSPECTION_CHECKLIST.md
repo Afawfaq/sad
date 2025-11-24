@@ -1,5 +1,7 @@
 # DAILY SAFETY INSPECTION CHECKLIST
 
+**Facility Location:** Brisbane, Queensland, Australia
+
 **Date:** __________________ | **Inspector:** __________________ | **Shift:** __________
 
 **Time Started:** __________ | **Time Completed:** __________
@@ -12,9 +14,15 @@
 ☐ Daily (routine)  
 ☐ Weekly (comprehensive)  
 ☐ Monthly (detailed)  
-☐ Special (incident follow-up, audit prep)
+☐ Special (incident follow-up, audit prep)  
+☐ Pre-audit (WorkSafe QLD)
 
-**Weather Conditions:** ☐ Clear ☐ Rain ☐ Snow ☐ Extreme Heat ☐ Extreme Cold
+**Weather Conditions:** ☐ Clear ☐ Rain ☐ Storms ☐ Extreme Heat (>35°C) ☐ Humid
+
+**Brisbane Climate Considerations:**
+- [ ] Heat stress protocols in place (summer)
+- [ ] Storm preparation adequate (wet season)
+- [ ] Ventilation adequate for humidity
 
 **Areas Inspected:** ☐ All ☐ Partial (list): _________________________
 
@@ -112,7 +120,13 @@ _______________________________________________________________________
 
 **Last Alarm Test Date:** __________
 
-**Next Test Due:** __________
+**Next Test Due:** __________ (Required: 6-monthly per AS 1851)
+
+**Emergency Contact Numbers Posted:**
+- [ ] Emergency Services: 000
+- [ ] WorkSafe Queensland: 1300 362 128
+- [ ] Poisons Information: 13 11 26
+- [ ] Site emergency contact: _________________
 
 ---
 

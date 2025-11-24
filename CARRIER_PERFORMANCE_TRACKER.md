@@ -6,14 +6,18 @@
 
 ## CARRIER OVERVIEW
 
-### Active Carriers
+**Location:** Brisbane, Queensland, Australia
+
+### Active Carriers (Australia)
 
 | Carrier Name | Service Types | Account # | Contact Number | Pickup Time | Volume |
 |--------------|---------------|-----------|----------------|-------------|--------|
-| UPS | Ground, 2-Day, Next Day | | | Daily 4:00 PM | High |
-| FedEx | Ground, Express | | | Daily 4:00 PM | High |
-| USPS | Priority, First Class | | | Daily 3:30 PM | Medium |
-| Local Courier | Same Day | | | On-Call | Low |
+| Australia Post | Express Post, Parcel Post | | 13 13 18 | Daily _____ | High |
+| StarTrack | Road Express, Premium | | 13 23 45 | Daily _____ | High |
+| Toll / Toll Priority | Road Express, IPEC | | 13 15 31 | Daily _____ | Medium |
+| TNT / FedEx AU | Express, International | | 13 11 50 | Daily _____ | Medium |
+| Couriers Please | Same Day, Overnight | | 1300 362 668 | On-Call | Low |
+| Local Brisbane Courier | Same Day Metro | | | On-Call | Low |
 
 ---
 
